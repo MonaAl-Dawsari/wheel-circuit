@@ -13,9 +13,13 @@ This repo contains a task to design and program a wheels circuit  for base robot
 
 design the circuit as shown in the picture. 
 ![design](circuit.PNG)
+This picture shows the Pin for the h bridge and how can we connect cables
+
+![l293](l293pin.PNG)
+![l293](pin2.PNG)
 
 
-* program the arduino to Set the motors degree to 90 by using c++ language. ([see the code](https://github.com/MonaAl-Dawsari/Arduino-circuit-5motors/blob/main/circuit.ino))
+* program the arduino to Set the Speeds to 120 - you can change the Speeds var to the Speeds you want- using c++ language. ([see the code](https://github.com/MonaAl-Dawsari/wheel-circuit/blob/main/wheel_circuit.ino))
 
 * Start Simulation. 
 
